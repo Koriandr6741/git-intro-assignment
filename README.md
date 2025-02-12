@@ -1,1 +1,1 @@
-# git-intro-assignment
+# File sends "Hello World!" massage
